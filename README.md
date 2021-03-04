@@ -1,3 +1,3 @@
 # trail
 ## Editing the file
-There is markdown filein this repository. 
+There is markdown file in this repository. 
